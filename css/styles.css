@@ -11395,7 +11395,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("file:///C:/VIUAL%20LAB2/P-GWEB-KEYSI/startbootstrap-new-age-gh-pages/assets/img/trabajo.jpg");
+  background-image: url("../assets/img/trabajo.jpg");
   background-position: center;
   background-size: cover;
 }
